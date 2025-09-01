@@ -1,0 +1,1 @@
+let myAge = prompt("How are old are you now");         
